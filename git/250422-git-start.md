@@ -32,4 +32,5 @@
  - rm {fielname}
  - mkdir {dirname}
  - rm {directory} : can't
- - 
+ - rm -rF {dirname}
+ - cp {path/filename} {path/filename}
