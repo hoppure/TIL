@@ -11,9 +11,9 @@
 - commit and push
 - PR
 - approved
- - delete branch and fetch the upstream repo to prepare next work
+   - delete branch and fetch the upstream repo to prepare next work
 - change request
- - do change request in the work branch  
- - commit and push
- - PR again
+  - do change request in the work branch  
+  - commit and push
+  - PR again
 
