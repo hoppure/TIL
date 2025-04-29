@@ -1,8 +1,9 @@
 
 ## .zshrc 에 설정할 것
-1. alias "python"="python3"
-2. alias "vi"="vim" 
-3. = 뒤에 띄어쓰지않기
+1. alias python="python3"
+2. alias vi="vim"
+3. alias pip="pip3" 
+4. = 뒤에 띄어쓰지않기
 
 ## addition vimrc configuration
 1. Vundle 을 이용하여 plugin설치하기
