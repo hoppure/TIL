@@ -4,6 +4,7 @@
 2. alias vi="vim"
 3. alias pip="pip3" 
 4. = 뒤에 띄어쓰지않기
+5. ZSH_THEME="agnoster"
 
 ## addition vimrc configuration
 1. Vundle 을 이용하여 plugin설치하기
